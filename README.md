@@ -15,3 +15,6 @@ This project analyzes Netflix dataset using Tableau and presents key insights th
 
 ## 📁 File Included
 - netflix-tableau-dashboard.twbx
+
+## 📸 Dashboard Preview
+![Netflix Dashboard](netflix-dashboard-preview.png)
